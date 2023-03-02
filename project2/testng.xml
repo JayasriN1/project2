@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<!-- Suite -->
+<test name="Test" thread-count="5">
+<classes>
+<class name="TextNG.Menu"/>
+<class name="TextNG.Frames"/>
+<class name="TextNG.SelectMenu"/>
+<class name="TextNG.RadioButton"/>
+<class name="TextNG.Buttons"/>
+<class name="TextNG.Links"/>
+<class name="TextNG.Tabs"/>
+<class name="TextNG.Interations"/>
+<class name="TextNG.DatePicker"/>
+<class name="TextNG.CheckBox"/>
+<class name="TextNG.joinnow"/>
+<class name="TextNG.TextBox"/>
+<class name="TextNG.Window"/>
+<class name="TextNG.ToolTips"/>
+<class name="TextNG.Widgets"/>
+<class name="TextNG.Alerts"/>
+<class name="TextNG.BookStore"/>
+<class name="TextNG.ElementsCard"/>
+<class name="TextNG.Accordian"/>
+</classes>
+</test>
+<!-- Test -->
+</suite>
